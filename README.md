@@ -9,6 +9,9 @@ Se debe plantear un código mediante el cual, al ingresar un número entero, se 
 
 ![image](https://user-images.githubusercontent.com/124615034/224470569-1225364c-bed4-49e4-88b1-341ca33eb36b.png)
 
+Fuente: https://introsisdigitales.wordpress.com/codigo-ascii/
+
+
 El código correspondiente a este problema escridigitadoto en pseudocódigo es el siguiente:
 
 ```sh
