@@ -120,6 +120,7 @@ else:
 
 Se ve de la siguiente forma al ejecutarlo:
 Determinar si el punto (3,5) hace parte de la circunferencia con centro en (2,3) y radio 3.
+
 ![image](https://user-images.githubusercontent.com/124615034/224561350-5fb94f04-c7a5-4df9-85e3-34fc2c1b3cf5.png)
 ![image](https://user-images.githubusercontent.com/124615034/224561419-32f04da1-239c-4aab-826b-3cc42004a3f3.png)
 ![image](https://user-images.githubusercontent.com/124615034/224561435-6efb9189-375e-4e8c-8f8f-00c4453c7562.png)
@@ -128,6 +129,7 @@ Determinar si el punto (3,5) hace parte de la circunferencia con centro en (2,3)
 ![image](https://user-images.githubusercontent.com/124615034/224561568-ccf779b2-dbe3-4442-a6e5-b5302f5c5d15.png)
 
 Determinar si el punto (5,1) hace parte de la circunferencia con centro en (2,3) y radio 3.
+
 ![image](https://user-images.githubusercontent.com/124615034/224561350-5fb94f04-c7a5-4df9-85e3-34fc2c1b3cf5.png)
 ![image](https://user-images.githubusercontent.com/124615034/224561419-32f04da1-239c-4aab-826b-3cc42004a3f3.png)
 ![image](https://user-images.githubusercontent.com/124615034/224561435-6efb9189-375e-4e8c-8f8f-00c4453c7562.png)
